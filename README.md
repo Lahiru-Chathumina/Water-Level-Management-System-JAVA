@@ -1,12 +1,12 @@
-# Java Chat Application
+# Water-Level Management System (Java)
 
-This project is a Java-based real-time chat application designed to support multiple participants. The application allows users to exchange messages and images over a network using a graphical interface created with Java Swing.
+This project is a Java-based Water-Level Management System designed to monitor and manage water levels in real-time. The system provides alerts and notifications when water levels reach critical thresholds, helping to prevent flooding or maintain optimal water usage.
 
 ## Features
-- **Real-time Messaging**: Supports instant messaging between multiple users.
-- **Image Sharing**: Allows participants to send images in the chat.
-- **User-friendly Interface**: Built using Java Swing for an intuitive and responsive experience.
-- **Multi-user Support**: Enables multiple users to join a chat room simultaneously.
+- **Real-Time Monitoring**: Continuously monitors water levels and updates in real-time.
+- **Threshold Alerts**: Sends alerts when water levels reach critical thresholds.
+- **Data Logging**: Logs water level data for analysis and review.
+- **User-friendly Interface**: Built with Java Swing for a clear and interactive experience.
 
 ## Prerequisites
 - **Java**: JDK 8 or higher.
@@ -16,5 +16,5 @@ This project is a Java-based real-time chat application designed to support mult
 
 1. **Clone the Repository**:
    ```bash
-   git clone https://github.com/yourusername/JavaChatApplication.git
-   cd JavaChatApplication
+   git clone https://github.com/yourusername/Water-Level-Management-System-JAVA.git
+   cd Water-Level-Management-System-JAVA
